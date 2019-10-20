@@ -1,0 +1,26 @@
+{
+  "name": "nodeJS-xlsx-insert-mysql",
+  "version": "1.0.0",
+  "description": "Aplicação básica de aprendizado da tecnologia NodeJS, cuja função é automatizar o processo de inserção de dados de planilha excel, em uma base SQL Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpereiraalmeida7/nodeJS-xlsx-insert-sqlServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpereiraalmeida7/nodeJS-xlsx-insert-sqlServer/issues"
+  },
+  "homepage": "https://github.com/bpereiraalmeida7/nodeJS-xlsx-insert-sqlServer#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "knex": "^0.19.5",
+    "mysql": "^2.17.1",
+    "node-xlsx": "^0.15.0"
+  }
+}
